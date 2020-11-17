@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-Setterinjection/Spring-02-DI-Setterinjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-Setterinjection/Spring-02-DI-Setterinjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" filepath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-04-BeanLifeCycle/Spring-04-BeanLifeCycle.iml" filepath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/Spring-04-BeanLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBoot-Ioc-DI-Lab/Spring-07-SpringBoot-Ioc-DI-Lab.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBoot-Ioc-DI-Lab/Spring-07-SpringBoot-Ioc-DI-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBoot-Demo/cybertek.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBoot-Demo/cybertek.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
     </modules>
   </component>
